@@ -1,10 +1,13 @@
 # 🎓 University Management System
 ### A Desktop Application built with Java Swing | OOP Final Project — 3rd Semester
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Swing](https://img.shields.io/badge/Java%20Swing-GUI-blue?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
+| Login | Dashboard |
+|---|---|
+| ![Login](screenshots/login.png) | ![Dashboard](screenshots/dashboard.png) |
+
+| Add Faculty | About |
+|---|---|
+| ![Add Faculty](screenshots/add_faculty.png) | ![About](screenshots/about.png) |
 
 ---
 
@@ -248,22 +251,6 @@ INSERT INTO login VALUES ('admin', 'admin123');
 
 ---
 
-## 📸 Screenshots
-
-| Login Screen | Dashboard |
-|---|---|
-| ![Login](screenshots/login.png) | ![Dashboard](screenshots/dashboard.png) |
-
-| Student Registration | Examination Result |
-|---|---|
-| ![Add Faculty](screenshots/add_faculty.png) | ![Marks](screenshots/about.png) |
-
-| Author Portrait | University |
-|---|---|
-| ![Profile](screenshots/profile.png) | ![University](screenshots/University.webp) |
-
----
-
 ## 🧠 What I Learned
 
 - Designing multi-screen desktop applications with Java Swing
@@ -278,8 +265,13 @@ INSERT INTO login VALUES ('admin', 'admin123');
 ## 👨‍💻 Author
 
 **Muhammad Ubaid ul Rehman**
+
+![Profile](screenshots/profile.png)
+
 BS Computer Science — 3rd Semester
 COMSATS University Islamabad Sahiwal Campus
+
+![University](screenshots/University.webp)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/muhammad-ubaid-ul-rehman)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/muhammad-ubaid-ul-rehman)
