@@ -9,9 +9,8 @@ if (-not (Test-Path $libPath)) {
 Write-Host "Downloading dependencies from Maven Central Repository..."
 
 $deps = @(
-    @{Name="mysql-connector-j-9.0.0.jar"; Url="https://repo1.maven.org/maven2/com/mysql/mysql-connector-j/9.0.0/mysql-connector-j-9.0.0.jar"; Desc="MySQL JDBC Driver"},
-    @{Name="jcalendar-1.4.jar"; Url="https://repo1.maven.org/maven2/com/toedter/jcalendar/1.4/jcalendar-1.4.jar"; Desc="JCalendar (JDateChooser)"},
-    @{Name="dbutils-1.1.0.jar"; Url="https://repo1.maven.org/maven2/com/xdev-software/dbutils/1.1.0/dbutils-1.1.0.jar"; Desc="Database Utilities"}
+    @{Name="mysql-connector-j-9.3.0.jar"; Url="https://repo1.maven.org/maven2/com/mysql/mysql-connector-j/9.3.0/mysql-connector-j-9.3.0.jar"; Desc="MySQL JDBC Driver"},
+    @{Name="jcalendar-1.4.jar"; Url="https://repo1.maven.org/maven2/com/toedter/jcalendar/1.4/jcalendar-1.4.jar"; Desc="JCalendar (JDateChooser)"}
 )
 
 foreach ($dep in $deps) {

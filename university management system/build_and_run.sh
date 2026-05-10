@@ -15,8 +15,8 @@ if [ ! -d "lib" ]; then
 fi
 
 # Check if key dependencies exist
-if [ ! -f "lib/mysql-connector-j-9.0.0.jar" ]; then
-    echo "ERROR: mysql-connector-j-9.0.0.jar not found!"
+if [ ! -f "lib/mysql-connector-j-9.3.0.jar" ]; then
+    echo "ERROR: mysql-connector-j-9.3.0.jar not found!"
     exit 1
 fi
 

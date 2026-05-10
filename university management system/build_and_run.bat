@@ -19,8 +19,8 @@ if not exist "lib" (
 )
 
 REM Check if key dependencies exist
-if not exist "lib\mysql-connector-j-9.0.0.jar" (
-    echo ERROR: mysql-connector-j-9.0.0.jar not found!
+if not exist "lib\mysql-connector-j-9.3.0.jar" (
+    echo ERROR: mysql-connector-j-9.3.0.jar not found!
     pause
     exit /b 1
 )
