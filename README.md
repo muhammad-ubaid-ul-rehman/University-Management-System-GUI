@@ -263,10 +263,9 @@ INSERT INTO login VALUES ('admin', 'admin123');
 ---
 
 ## 👨‍💻 Author
-
-**Muhammad Ubaid ul Rehman**
 **Abdul Manan Akram**
 ![Profile](screenshots/download(2).png)
+**Muhammad Ubaid ul Rehman**
 ![Profile](screenshots/profile.png)
 
 BS Computer Science — 3rd Semester
