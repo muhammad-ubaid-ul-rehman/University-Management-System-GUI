@@ -266,7 +266,7 @@ INSERT INTO login VALUES ('admin', 'admin123');
 
 **Muhammad Ubaid ul Rehman**
 **Abdul Manan Akram**
-![Profile](<img width="864" height="1184" alt="download (2)" src="https://github.com/user-attachments/assets/afe654ee-fc45-45f1-96fd-24d11596153c" />)
+![Profile](screenshots/download(2).png)
 ![Profile](screenshots/profile.png)
 
 BS Computer Science — 3rd Semester
