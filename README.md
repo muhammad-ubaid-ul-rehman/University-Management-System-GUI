@@ -274,6 +274,7 @@ COMSATS University Islamabad Sahiwal Campus
 ![University](screenshots/University.webp)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/muhammad-ubaid-ul-rehman)
+[![LinkedIn](https://www.linkedin.com/in/abdul-manan-akram-673b4938a/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/muhammad-ubaid-ul-rehman)
 
 ---
